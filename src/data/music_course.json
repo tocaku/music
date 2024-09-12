@@ -1,0 +1,105 @@
+{
+    "courses": [
+      {
+        "id": 1,
+        "title": "Основи гри на гітарі",
+        "slug": "guitar-fundamentals",
+        "description": "Вивчіть основи гри на гітарі з нашим всебічним курсом для початківців.",
+        "price": 99.99,
+        "instructor": "Джон Доу",
+        "isFeatured": true,
+        "image": "/courses/guitar.jpg" 
+      },
+      {
+        "id": 2,
+        "title": "Піаніно для початківців",
+        "slug": "piano-for-beginners",
+        "description": "Розпочніть свою музичну подорож з основ гри на піаніно, які викладають досвідчені інструктори.",
+        "price": 109.99,
+        "instructor": "Джейн Смітт",
+        "isFeatured": false,
+        "image": "/courses/piano.jpg" 
+      },
+      {
+        "id": 3,
+        "title": "Розширені вокальні техніки",
+        "slug": "advanced-vocal-techniques",
+        "description": "Покращте свій спів з розширеними вокальними техніками для учнів середнього та високого рівня.",
+        "price": 119.99,
+        "instructor": "Емілі Джонсон",
+        "isFeatured": true,
+        "image": "/courses/vocalist.jpg" 
+      },
+      {
+        "id": 4,
+        "title": "Майстерність гри на барабанах",
+        "slug": "drumming-mastery",
+        "description": "Опануйте гру на барабанах з нашим комплексним курсом, що охоплює всі рівні підготовки.",
+        "price": 129.99,
+        "instructor": "Майк Браун",
+        "isFeatured": false,
+        "image": "/courses/drumming.jpg"
+      },
+      {
+        "id": 5,
+        "title": "Джазова імпровізація",
+        "slug": "jazz-improvisation",
+        "description": "Вивчайте мистецтво джазової імпровізації на цьому курсі, розробленому для всіх рівнів.",
+        "price": 139.99,
+        "instructor": "Кріс Девіс",
+        "isFeatured": false,
+        "image": "/courses/jazz.jpg"
+      },
+      {
+        "id": 6,
+        "title": "Основи музичного продакшну",
+        "slug": "music-production-fundamentals",
+        "description": "Пориньте у світ музичного продакшну з цим вступним курсом з основ звукорежисури та мікшування.",
+        "price": 149.99,
+        "instructor": "Алекс Вілсон",
+        "isFeatured": true,
+        "image": "/courses/music-prod.jpg"
+      },
+      {
+        "id": 7,
+        "title": "Основи написання пісень",
+        "slug": "songwriting-essentials",
+        "description": "Вивчіть основи написання пісень, щоб виразити свою музичну творчість.",
+        "price": 159.99,
+        "instructor": "Саманта Міллер",
+        "isFeatured": false,
+        "image": "/courses/song-writing.jpg"
+      },
+      {
+        "id": 8,
+        "title": "Виробництво електронної музики",
+        "slug": "electronic-music-production",
+        "description": "Створюйте захоплюючу електронну музику з нашим курсом, розробленим для початківців і просунутих користувачів.",
+        "price": 169.99,
+        "instructor": "Люк Харріс",
+        "isFeatured": true,
+        "image": "/courses/music-prod.jpg"
+      },
+      {
+        "id": 9,
+        "title": "Історія класичної музики",
+        "slug": "classical-music-history",
+        "description": "Дослідіть багату історію класичної музики від її витоків до наших днів.",
+        "price": 179.99,
+        "instructor": "Грейс Лі",
+        "isFeatured": false,
+        "image": "/courses/classical-music.jpg"
+      },
+      {
+        "id": 10,
+        "title": "Техніки гри на гітарі в стилі блюз",
+        "slug": "blues-guitar-techniques",
+        "description": "Відкрийте для себе техніки гри на гітарі в стилі блюз, щоб додати душі та глибини вашій грі.",
+        "price": 189.99,
+        "instructor": "Ітан Мур",
+        "isFeatured": true,
+        "image": "/courses/blues.jpg"
+      }
+    ]
+  }
+  
